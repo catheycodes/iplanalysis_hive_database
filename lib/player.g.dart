@@ -1,8 +1,4 @@
-// GENERATED CODE - DO NOT MODIFY BY HAND
-
 part of 'player.dart';
-
-
 
 class PlayerAdapter extends TypeAdapter<Player> {
   @override
